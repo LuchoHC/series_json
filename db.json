@@ -4,44 +4,68 @@
             "nombre": "Friends",
             "imagen": "https://fondosmil.com/fondo/27881.jpg",
             "temporadas": "10 Temporadas",
-            "Episodios": "236 Episodios",
+            "episodios": "236 Episodios",
             "descripcion": "Tres hombres y tres mujeres jóvenes son mejores amigos y viven en el mismo conjunto de apartamentos. Ellos enfrentan la vida y el amor en la ciudad de Nueva York y se involucran en los asuntos personales de los demás, donde incluso a veces intercambian novios o novias, lo que algunas veces genera situaciones que las personas comunes quizás nunca experimentan, especialmente durante las rupturas."
         },{
             "nombre": "Breaking Bad",
             "imagen": "https://avueltasconelcine.files.wordpress.com/2015/04/328257.jpg",
             "temporadas": "5 Temporadas",
-            "Episodios": "62 Episodios",
+            "episodios": "62 Episodios",
             "descripcion": "El profesor calmado de química de una secundaria, Walter White cree que su vida no puede ser peor. Su salario apenas le alcanza para sostener a su familia, una situación que no mejora cuando su esposa da a luz y su hijo adolescente sufre de parálisis cerebral, pero Walter queda anonadado cuando se entera que tiene un cáncer terminal. Al concluir que su enfermedad iba a arruinar financieramente a su familia, él toma una decisión desesperada con el fin de ganar más dinero durante el tiempo que le queda y transforma un viejo vehículo de recreación en un laboratorio de matanfetaminas sobre ruedas."
         },{
             "nombre": "The Walking Dead",
             "imagen": "https://fondosmil.com/fondo/35361.jpg",
             "temporadas": "11 Temporadas",
-            "Episodios": "147 Episodios",
+            "episodios": "147 Episodios",
             "descripcion": "Basado en la historieta escrita por Robert Kirkman, este drama crudo describe las vidas de un grupo de sobrevivientes que está siempre en movimiento en busca de un hogar seguro durante las semanas y meses de un apocalipsis zombi. Sin embargo, la presión de estar con vida cada día, lleva a algunos del grupo a la crueldad profunda de cada ser humano y descubren que el miedo abrumador puede ser más mortal que los zombis que caminan a su alrededor. Los conflictos interpersonales pueden representar una amenaza mayor para su supervivencia que los caminantes que deambulan por las calles."
         },{
             "nombre": "Skam",
             "imagen": "https://wallpapercave.com/wp/wp4024025.jpg",
             "temporadas": "4 Temporadas",
-            "Episodios": "43 Episodios",
+            "episodios": "43 Episodios",
             "descripcion": "Skam es una serie de televisión noruega sobre la vida cotidiana de los adolescentes en Hartvig Nissen, una escuela en el rico distrito de Frogner en el West End de Oslo."
         },{
             "nombre": "Game of Thrones",
             "imagen": "https://wallpaperboat.com/wp-content/uploads/2019/04/game-of-thrones-cool-minimal-wallpaper-hd-picture-038.jpg",
             "temporadas": "8 Temporadas",
-            "Episodios": "73 Episodios",
+            "episodios": "73 Episodios",
             "descripcion": "El libro mejor vendido de la serie 'A Song of Ice and Fire' escrito por George R.R, es llevado a la pantalla chica cuando HBO decide recrear esta historia épica de fantasía. Es la descripción de dos familias poderosas, reyes y reinas, caballeros y renegados, hombres falsos y honestos, haciendo parte de un juego mortal por el control de los Siete Reinados de Westeros y por sentarse en el trono más alto. "
+        },{
+            "nombre": "American Horror Story",
+            "imagen": "https://cdn.mensagenscomamor.com/content/images/p000004427.jpg?v=1&w=1600&h=900&c=1",
+            "temporadas": "9 Temporadas",
+            "episodios": "103 Episodios",
+            "descripcion": "American Horror Story es una serie de televisión estadounidense de antología y horror creada por Ryan Murphy y Brad Falchuk."
+        },{
+            "nombre": "How I Met Your Mother",
+            "imagen": "https://wallpapercave.com/wp/wp1816662.jpg",
+            "temporadas": "9 Temporada",
+            "episodios": "208 Episodios",
+            "descripcion": "Ted se ha enamorado. Todo comenzó cuando su mejor amigo, Marshall confiesa que planea proponerle matrimonio a su novia de muchos años Lily, una profesora del jardín infantil. De repente, Ted se da cuenta que tiene tomar acción para encontrar el amor verdadero. Ayudándole en su búsqueda está Barney, un amigo incondicional y frecuentemente alocado en sus opiniones, en sus elecciones para el vestuario y su forma infalible de conocer mujeres. Cuando Ted conoce a Robin, está seguro de haberse enamorado a primera vista pero su romance se transforma en una amistad, la voz de Bob Saget ('Full House') relata la historia a través de recuerdos."
         },{
             "nombre": "WandaVision",
             "imagen": "https://i1.wp.com/hipertextual.com/wp-content/uploads/2020/12/wandavision.jpg?fit=1200%2C692&ssl=1",
             "temporadas": "1 Temporada",
-            "Episodios": "9 Episodios",
+            "episodios": "9 Episodios",
             "descripcion": "Con vidas suburbanas idealizadas, los seres superpoderosos Wanda y Vision comienzan a sospechar que nada es lo que parece."
         },{
             "nombre": "BoJack Horseman",
             "imagen": "https://i.pinimg.com/originals/65/75/11/657511b333249fb55ca09fd5e453501d.png",
             "temporadas": "6 Temporada",
-            "Episodios": "49 Episodios",
+            "episodios": "49 Episodios",
             "descripcion": "BoJack Horseman es un olvidado actor que supo vivir sus días de gloria gracias a una comedia televisiva, y que se enfrenta a las más duras crisis existenciales y adicciones mientras intenta volver a las grandes ligas."
+        },{
+            "nombre": "The End of the F***ing World",
+            "imagen": "https://wallpapercave.com/wp/wp2398095.jpg",
+            "temporadas": "2 Temporada",
+            "episodios": "16 Episodios",
+            "descripcion": "James, un joven psicópata, y Alyssa, una adolescente rebelde, se embarcan en un viaje por carretera en busca del padre de ella. Sin embargo, la aventura no ha hecho más que empezar."
+        },{
+            "nombre": "Stranger Things",
+            "imagen": "https://p4.wallpaperbetter.com/wallpaper/622/739/588/stranger-things-netflix-clouds-bicycle-wallpaper-preview.jpg",
+            "temporadas": "3 Temporadas",
+            "episodios": "25 Episodios",
+            "descripcion": "Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña."
         }
     ]
 }
