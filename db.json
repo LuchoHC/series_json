@@ -66,6 +66,18 @@
             "temporadas": "3 Temporadas",
             "episodios": "25 Episodios",
             "descripcion": "Cuando un niño desaparece, sus amigos, la familia y la policía se ven envueltos en una serie de eventos misteriosos al tratar de encontrarlo. Su ausencia coincide con el avistamiento de una criatura terrorífica y la aparición de una extraña niña."
+        },{
+            "nombre": "The Handmaid's Tale",
+            "imagen": "https://wallpaperaccess.com/full/2053622.jpg",
+            "temporadas": "4 Temporadas",
+            "episodios": "46 Episodios",
+            "descripcion": "Una mujer obligada a la esclavitud sexual lucha por sobrevivir en Gilead, una sociedad totalitaria y postapocalíptica situada en lo que solía ser Estados Unidos."
+        },{
+            "nombre": "Euphoria",
+            "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/08/euphoria.jpg?itok=BdSNpoPw",
+            "temporadas": "1 Temporadas",
+            "episodios": "10 Episodios",
+            "descripcion": "Un grupo de estudiantes de secundaria navega entre drogas, relaciones sexuales, traumas, redes sociales, amor y amistad."
         }
     ]
 }
