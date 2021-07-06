@@ -1,17 +1,17 @@
 {
     "series" :[
         {
-            "name": "The Walking Dead",
-            "Imagen": "https://fondosmil.com/fondo/35361.jpg",
-            "Temporadas": "10 Temporadas"
+            "nombre": "The Walking Dead",
+            "imagen": "https://fondosmil.com/fondo/35361.jpg",
+            "temporadas": "10 Temporadas"
         },{
-            "name": "Skam",
-            "Imagen": "https://wallpapercave.com/wp/wp4024025.jpg",
-            "Temporadas": "4 Temporadas"
+            "nombre": "Skam",
+            "imagen": "https://wallpapercave.com/wp/wp4024025.jpg",
+            "temporadas": "4 Temporadas"
         },{
-            "name": "Game of Thrones",
-            "Imagen": "https://wallpaperboat.com/wp-content/uploads/2019/04/game-of-thrones-cool-minimal-wallpaper-hd-picture-038.jpg",
-            "Temporadas": "8 Temporadas"
+            "nombre": "Game of Thrones",
+            "imagen": "https://wallpaperboat.com/wp-content/uploads/2019/04/game-of-thrones-cool-minimal-wallpaper-hd-picture-038.jpg",
+            "temporadas": "8 Temporadas"
         }
     ]
 }
