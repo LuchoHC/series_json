@@ -112,35 +112,6 @@
             "episodios": "24 Episodios",
             "categoria": "Ciencia ficción",
             "descripcion": "Ocho desconocidos tienen una conexión y comparten sentimientos y habilidades a medida que tratan de evitar su exterminio."
-        },{
-            "nombre": "Superman & Lois",
-            "imagen": "https://fueradeseries.com/wp-content/uploads/2021/03/Superman-versiones1-1024x575.jpg",
-            "temporadas": "1 Temporada",
-            "episodios": "11 Episodios",
-            "categoria": "Superheroes",
-            "descripcion": "El Hombre de Acero, el superhéroe más famoso del mundo, y la periodista Lois Lane se enfrentan a uno de sus mayores desafíos: ser padres trabajadores en la sociedad actual."
-        },{
-            "nombre": "Master of None",
-            "imagen": "https://imagenes.20minutos.es/files/article_amp/uploads/imagenes/2021/04/23/master-of-none.jpeg",
-            "temporadas": "3 Temporadas",
-            "episodios": "25 Episodios",
-            "categoria": "Comedia",
-            "descripcion": "Dev, un actor de 30 años que vive en Nueva York, tiene problemas tomando decisiones. Dev aborda temas como la madurez, su primer trabajo y la confrontación con delincuentes."
-        },{
-            "nombre": "Daredevil",
-            "imagen": "https://areajugones.sport.es/wp-content/uploads/2020/04/daredevil.jpg",
-            "temporadas": "3 Temporadas",
-            "episodios": "39 Episodios",
-            "categoria": "Superheroes",
-            "descripcion": "Ciego desde que era joven, Matt Murdock lucha contra la injusticia de día como abogado y por la noche como Daredevil en Nueva York."
-        }
-        ,{
-            "nombre": "Atypical",
-            "imagen": "https://www.mundopeliculas.tv/wp-content/uploads/2019/07/Atypical-S02E09-cb5257afcb9f8a34d7e40994186f8753-full-1024x576.jpg",
-            "temporadas": "3 Temporadas",
-            "episodios": "28 Episodios",
-            "categoria": "Comedia dramatica",
-            "descripcion": "Un adolescente con autismo está listo para enamorarse. Para comenzar a salir y encontrar el amor, necesita ser más independiente."
         }
     ]
 }
